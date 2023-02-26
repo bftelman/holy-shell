@@ -14,5 +14,15 @@ The best interactive linux shell in the world made for educational purposes.
 - Keyboard handling
 - Piping, regex and other useless stuff
 
+## Installation
+```
+git clone https://github.com/bftelman/holy-shell
+cd holy-shell
+make
+```
+
+## Usage
+Run ``` ./bin/main``` after building the project
+
 ## Co-authors:
 Muhammad Abushov.
